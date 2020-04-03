@@ -7,7 +7,7 @@ ENV APPD_HOST=sd-eb4b-fcaa.nam.nsroot.net \
  APPD_PORT=8181 \
  APPD_APPNAME=149931_GCBPOC_NAM_DEV \
  APPD_TIERNAME=HelloWorld-ECS \
- APPD_ACCESSKEY=4ee7566e-4d47-4143-8377-27aa6d842fff \
+ APPD_ACCESSKEY=4easdfasdf-4d47adf-414adf3-8fasdf377-27aa6d842ffffake \
  APPD_NODENAME_PREFIX=HelloWorld
 ### Changing ownership and permission for AppDynamics installation directory
 RUN chown -R 1001:0 /opt/appdyn && \
